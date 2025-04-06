@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm a passionate developer with a focus on Python, Django,
 
 ## 🛠️ Technologies & Tools
 
-- Languages: Python, JavaScript, HTML, CSS
-- Frameworks: Django, Asp.Net Core, Node.js
-- Databases: PostgreSQL, MySQL, SQLServer
-- Tools: Git, Docker, VS Code, PyCharm
+- Languages: Python, JavaScript, C#
+- Frameworks: Django, Nodejs, Asp.Net Core
+- Databases: MySQL, SQLServer, PostgreSQL 
+- Tools: Git, Docker
 
 ## 📈 GitHub Stats
 
