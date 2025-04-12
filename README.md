@@ -13,14 +13,6 @@ Welcome to my GitHub! I'm a passionate developer with a focus on Python, Django,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mghn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🚀 Featured Projects
-
-### [Project Name](link_to_your_project)
-A brief description of the project. What does it do? What technologies were used?
-
-### [Another Project](link_to_your_project)
-Description of another project. This could be something you're particularly proud of or are actively working on.
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [Mahdi Zargarzadeh](https://www.linkedin.com/in/mahdi-zargarzadeh-5a5281331/)
@@ -29,7 +21,6 @@ Description of another project. This could be something you're particularly prou
 
 ## 📢 About Me
 
-- 🧑‍💻 Currently working on [describe your current work/projects].
 - 🎓 Student at University of Isfahan.
 - 🎯 My goal is to build impactful solutions with a focus on Python.
 
