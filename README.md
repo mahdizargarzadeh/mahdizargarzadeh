@@ -23,15 +23,15 @@ Description of another project. This could be something you're particularly prou
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [LinkedIn Profile](your_linkedin_profile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- Website: [Your Website](your_website_link)
+- LinkedIn: [Mahdi Zargarzadeh](https://www.linkedin.com/in/mahdi-zargarzadeh-5a5281331/)
+- Email: [mahdizargarzadeh0@gmail.com](mailto:mahdizargarzadeh0@gmail.com)
+- Website: [mahdizargarzadeh.com](mahdizargarzadeh.com)
 
 ## 📢 About Me
 
 - 🧑‍💻 Currently working on [describe your current work/projects].
-- 🎓 Student at [University Name].
-- 🎯 My goal is to build impactful solutions with a focus on [your interests].
+- 🎓 Student at University of Isfahan.
+- 🎯 My goal is to build impactful solutions with a focus on Python.
 
 ## 🙌 Support
 
