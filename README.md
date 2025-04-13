@@ -17,7 +17,6 @@ Welcome to my GitHub! I'm a passionate developer with a focus on Python, Django,
 
 - LinkedIn: [Mahdi Zargarzadeh](https://www.linkedin.com/in/mahdi-zargarzadeh-5a5281331/)
 - Email: [mahdizargarzadeh0@gmail.com](mailto:mahdizargarzadeh0@gmail.com)
-- Website: [mahdizargarzadeh.com](mahdizargarzadeh.com)
 
 ## 📢 About Me
 
